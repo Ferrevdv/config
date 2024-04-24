@@ -1,0 +1,20 @@
+require("ferre.plugins-setup")
+require("ferre.core.options")
+require("ferre.core.keymaps")
+require("ferre.core.colorscheme")
+require("ferre.plugins.comment")
+require("ferre.plugins.nvim-tree")
+require("ferre.plugins.lualine")
+require("ferre.plugins.telescope")
+require("ferre.plugins.nvim-cmp")
+require("ferre.plugins.lsp.mason")
+require("ferre.plugins.lsp.lspsaga")
+require("ferre.plugins.lsp.lspconfig")
+-- require("ferre.plugins.gitsigns")
+require("ferre.plugins.treesitter")
+require("ferre.plugins.nvim-orgmode")
+require("ferre.plugins.aerial")
+
+-- OWN
+-- require("ferre.plugins.neoscroll")
+
